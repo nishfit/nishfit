@@ -1,6 +1,6 @@
 ![Wallpaper pic](https://github.com/nishfit/nishfit/assets/143175203/4b72b5e9-f5b3-449a-8032-1db5c6dba8ca)
 
-- 👀 I’m interested in Front end developement using HTML,CSS,JavaScript.
+- 👀 I’m interested in Developement using HTML,CSS,JavaScript.
 - 🌱 I’m currently learning JavaScipt
 - 💞️ I’m looking to collaborate on Freelancing
 - 📫 Contact me on +91-8953830348
